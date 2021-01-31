@@ -1,1 +1,18 @@
 # Next-Word-Prediction
+
+### Requirements for running the file:
+
+#### 1. Install "anaconda" navigator environment
+#### 2. Install the following packages using conda terminal:
+##### a. tensorflow
+##### b. keras
+##### c. numpy
+##### d. matplotlib
+##### e. pickle
+##### f. pylab
+##### g. sys
+##### h. heapq
+##### i. seaborn
+#### 3. Now open the file with extension ".ipynb"
+#### 4. Start running every module in it one by one
+#### 5. -------------------End--------------
